@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-- 🌱 I’m currently learning **Java, SQL, React, MongoDB, Node.js**
+- 🌱 I’m currently learning **Java, SQL, React, MongoDB, Node.js, react**
 
-- 💬 Ask me about **react, DSA, C++,GCP**
+- 💬 Ask me about **DSA, C++, Java, GCP**
 
 - 📫 How to reach me **kamakhyaparihar14@gmail.com**
 
