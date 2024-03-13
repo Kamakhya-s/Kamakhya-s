@@ -4,14 +4,13 @@
 
 - 🌱 I’m currently learning **Java, SQL, React, MongoDB, Node.js, react**
 
-- 💬 Ask me about **DSA, C++, Java, GCP**
+- 💬 Ask me about **DSA, C++, Javascript,React.js, Node.js, GCP, AWS**
 
 - 📫 How to reach me **kamakhyaparihar14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamakhya singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamakhya singh" height="30" width="40" /></a>
-<a href="https://instagram.com/kamakhya.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamakhya.03" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kamakhyasimlsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kamakhyasimlsa" height="30" width="40" /></a>
 </p>
 
