@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java, SQL, React, MongoDB, Node.js, react**
 
-- 💬 Ask me about **DSA, C++, Javascript,React.js, Node.js, GCP, AWS**
+- 💬 Ask me about **DSA, C++, Javascript,React.js, Node.js,Next.js, GCP, AWS**
 
 - 📫 How to reach me **kamakhyaparihar14@gmail.com**
 
