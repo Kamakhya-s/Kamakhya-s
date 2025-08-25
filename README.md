@@ -2,15 +2,15 @@
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-- 🌱 I’m currently learning **Java, SQL, React, MongoDB, Node.js, react**
+- 🌱 I’m currently learning **AI , Next.js, Python**
 
-- 💬 Ask me about **DSA, C++, Javascript,React.js, Node.js,Next.js, GCP, AWS**
+- 💬 Ask me about **DSA, C++, Javascript,React.js, Node.js,Next.js, AWS**
 
 - 📫 How to reach me **kamakhyaparihar14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kamakhya singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamakhya singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamakhya-singh-29559b2a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamakhya singh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kamakhyasimlsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kamakhyasimlsa" height="30" width="40" /></a>
 </p>
 
