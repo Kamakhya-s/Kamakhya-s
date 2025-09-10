@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamakhya-s&show_icons=true&locale=en" alt="kamakhya-s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamakhya-s&" alt="kamakhya-s" /></p>
+
+[![Kamakhya Singh profile views](https://u8views.com/api/v1/github/profiles/116475464/views/day-week-month-total-count.svg)](https://u8views.com/github/Kamakhya-s)
+<a href="https://u8views.com/github/Kamakhya-s"><img src="https://u8views.com/api/v1/github/profiles/116475464/views/day-week-month-total-count.svg"></a>
