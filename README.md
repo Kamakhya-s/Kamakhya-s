@@ -25,3 +25,16 @@
 
 [![Kamakhya Singh profile views](https://u8views.com/api/v1/github/profiles/116475464/views/day-week-month-total-count.svg)](https://u8views.com/github/Kamakhya-s)
 <a href="https://u8views.com/github/Kamakhya-s"><img src="https://u8views.com/api/v1/github/profiles/116475464/views/day-week-month-total-count.svg"></a>
+
+
+## 🏆 GitHub Achievements
+ 
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Kamakhya-s&theme=light" alt="GitHub Trophies" /></a>
+</p>
+ 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Kamakhya-s&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Kamakhya-s)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kamakhya-s&layout=compact)
+ 
+---
