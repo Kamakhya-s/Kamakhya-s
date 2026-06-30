@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 💼 Currently working as a **Software Development Engineer** at American Chase
+- 💼 Currently working as a **Software Development Engineer**, Looking for further opportunities.
 - 📍 Based in Indore, India
 - 🌱 Currently expanding my expertise in **AI, Next.js, and Python**
 - 💬 Ask me about **DSA, C++, Java, JavaScript, React.js, Node.js, Next.js, AWS, and Containerization**
