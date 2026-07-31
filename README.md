@@ -33,13 +33,17 @@
 
 ## 🛠️ Technical Stack
 
+## 🛠️ Technical Stack
+
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `JavaScript` • `TypeScript` • `Python` • `Java` • `C++` • `C` |
-| **Backend & APIs** | `Node.js` • `Express.js` • `FastAPI` • `RESTful APIs` • `System Architecture` |
-| **Frontend** | `React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS` |
-| **Databases & Cloud** | `MongoDB` • `PostgreSQL` • `AWS` • `MySQL` |
-| **DevOps & Tools** | `Docker` • `Kubernetes` • `Git` • `Linux` • `Jira` • `Confluence` |
+| **Languages** | `JavaScript` • `TypeScript` • `Python` • `C++` • `C` |
+| **Backend & APIs** | `Node.js` • `Express.js` • `FastAPI` • `Django` • `RESTful APIs` • `System Architecture` • `Mongoose`|
+| **Frontend** | `React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS` • `Vite` |
+| **Databases & Cloud** | `MongoDB` • `PostgreSQL` • `AWS` • `MySQL`  |
+| **DevOps & Infrastructure** | `Docker` • `Kubernetes` • `Git` • `Linux` • `Jira` • `Confluence` |
+| **Testing & API Tools** | `Postman` • `Swagger` • `Jest` |
+| **AI Workflows & Tools** | `Cursor` • `GitHub Copilot` • `Claude AI` • `Google Gemini`  • `ChatGPT`  |
 
 ---
 
