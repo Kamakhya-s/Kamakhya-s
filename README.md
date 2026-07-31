@@ -74,8 +74,6 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamakhya-s&theme=tokyonight" width="97%" />><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamakhya-s&theme=tokyonight" width="97%" />
-
 </div>
 
 ---
