@@ -3,10 +3,20 @@
 # Hi, I'm Kamakhya Singh 👋
 ### **Software Development Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamakhya-singh-29559b2a1/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kamakhyasingh/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KamakhyaSingh03)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamakhyaparihar14@gmail.com)
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/kamakhya-singh-29559b2a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/kamakhyasingh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://x.com/KamakhyaSingh03" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kamakhyaparihar14@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -28,7 +38,7 @@
 | **Languages** | `JavaScript` • `TypeScript` • `Python` • `Java` • `C++` • `C` |
 | **Backend & APIs** | `Node.js` • `Express.js` • `FastAPI` • `RESTful APIs` • `System Architecture` |
 | **Frontend** | `React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS` |
-| **Databases & Cloud** | `MongoDB` • `PostgreSQL` • `AWS` • `Google Cloud Platform (GCP)` |
+| **Databases & Cloud** | `MongoDB` • `PostgreSQL` • `AWS` • `MySQL` |
 | **DevOps & Tools** | `Docker` • `Kubernetes` • `Git` • `Linux` • `Jira` • `Confluence` |
 
 ---
@@ -51,10 +61,7 @@
 
 ## 📈 GitHub Statistics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kamakhya-s&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamakhya-s&layout=compact&theme=tokyonight" width="48%" />
 
 <br />
 
