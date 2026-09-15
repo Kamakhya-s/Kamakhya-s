@@ -42,7 +42,7 @@
 | **Frontend** | `React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS` • `Vite` |
 | **Databases & Cloud** | `MongoDB` • `PostgreSQL` • `AWS` • `MySQL`  |
 | **DevOps & Infrastructure** | `Docker` • `Kubernetes` • `Git` • `Linux` • `Jira` • `Confluence` |
-| **Testing & API Tools** | `Postman` • `Swagger` • `Jest` |
+| **Testing & API Tools** | `Postman` • `Swagger` • `Jest` • `PyTest` |
 | **AI Workflows & Tools** | `Cursor` • `GitHub Copilot` • `Claude AI` • `Google Gemini`  • `ChatGPT`  |
 
 ---
