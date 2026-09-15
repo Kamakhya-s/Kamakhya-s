@@ -62,7 +62,7 @@
 ---
 
 ### 3. ✍️ [Full-Stack Modern Blog Platform](https://github.com/Kamakhya-s/Blog-App)
-* **Tech Stack:** `React.js` • `Express.js` • `MongoDB` • `Node.js` • `Tailwind CSS`
+* **Tech Stack:** `React.js` • `Express.js` • `Appwrite` • `Node.js` • `Tailwind CSS`
 * **Engineering Highlights:** Developed a full-stack content management platform implementing JWT authentication, state-driven UI state management, and optimized database queries for fast feed generation. Built reusable modular components to maintain clean architecture standards.
 
 ---
