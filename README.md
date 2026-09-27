@@ -23,15 +23,13 @@
 ---
 
 ## 🚀 About Me
-
-* 💼 **Current Role:** Software Development Engineer (SDE) based in **Indore, India**.
+* 💼  Immediate joiner looking for new opportunity as intern or full-time
+* 💼 **Previous Role:** Software Development Engineer (SDE) based in **Indore, India**.
 * 🎯 **Focus Areas:** Scalable Web Applications, Distributed Systems, Cloud Infrastructure, and AI Operations.
 * 🌱 **Currently Building & Learning:** AI Operations/LLM Pipelines, Next.js Server Components, and Async Python Services.
 * 🛠️ **Core Competencies:** Data Structures & Algorithms, Backend System Design, API Optimization, Cloud Architecture (AWS/GCP), and Containerization.
 
 ---
-
-## 🛠️ Technical Stack
 
 ## 🛠️ Technical Stack
 
